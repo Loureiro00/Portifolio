@@ -178,4 +178,4 @@ transition:0.5s ease-in-out;
        #toggle:checked~.menu-itens{
         visibility: visible;
         opacity: 1 ;
-       }
+    }
